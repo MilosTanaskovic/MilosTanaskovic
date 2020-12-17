@@ -60,6 +60,12 @@ Here are some ideas to get you started:
 <!--   <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> -->
 </p>
 
+`Website` - [tanaskovic.se](https://www.tanaskovic.se)
+
+❤️ Support my open source projects:
+
+[![Donate on PayPal](https://img.shields.io/badge/--paypal?label=PayPal&logo=PayPal&style=social)](https://paypal.me/codedancing?locale.x=en_US)
+
 
 ### Github statistics
 
