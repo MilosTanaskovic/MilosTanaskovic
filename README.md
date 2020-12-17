@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ### About myself
 
-- 🔭&nbsp;&nbsp;I’m currently authoring [Next Right Now](https://github.com/UnlyEd/next-right-now)
+- 🔭&nbsp;&nbsp;I’m currently authoring [Modern-Slick React Portfolio](https://github.com/MilosTanaskovic/my-portfolio-react)
 
 - 🌱&nbsp;&nbsp;I’m currently learning **tons of things about tons of stuff (grind grind grind)**
 
@@ -34,13 +34,13 @@ Here are some ideas to get you started:
 
 - 💬&nbsp;&nbsp;Ask me about **entrepreneurship, mentorship, programming, daily hacks, productivity, security**
 
-- 📫&nbsp;&nbsp;How to reach me **Twitter/LinkedIn** or open a Github issue [here](https://github.com/Vadorequest/Vadorequest/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc)
+- 📫&nbsp;&nbsp;How to reach me **Twitter/LinkedIn** or open a Github issue [here]()
 
 > I also happen to be a CTO and co-founder of [Unly](https://unly.org/), a tech company meant to help access higher education for students.
 
 ### Tech stack
 
-> [Check out the tech stack we used at Unly (2019)](https://stackshare.io/unly/2019)
+<!--> [Check out the tech stack we used at Unly (2019)]()-->
 
 <p align="left">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
@@ -63,10 +63,10 @@ Here are some ideas to get you started:
 ### Github statistics
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vadorequest&layout=compact&hide=php,smarty&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="vadorequest" />&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vadorequest&show_icons=true&count_private=true&show_icons=true&hide=php&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="vadorequest" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MilosTanaskovic&layout=compact&hide=php,smarty&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="vadorequest" />&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MilosTanaskovic&show_icons=true&count_private=true&show_icons=true&hide=php&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="vadorequest" />
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=vadorequest)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=MilosTanaskovic)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ### Social
@@ -74,32 +74,32 @@ Here are some ideas to get you started:
 > Want to get in touch?
 
 <p align="center">
-  <a href="https://dev.to/vadorequest" target="blank">
+<!--   <a href="" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="vadorequest" height="30" width="30" />
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://twitter.com/vadorequest" target="blank">
+  </a>&nbsp;&nbsp;&nbsp; -->
+  <a href="https://twitter.com/CodeDancing" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="vadorequest" height="30" width="30" />
   </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/ambroise-dhenain" target="blank">
+  <a href="https://www.linkedin.com/in/milos-tanaskovic-codedancing-619742130/" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ambroise-dhenain" height="30" width="30" />
   </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://stackoverflow.com/users/2391795" target="blank">
+  <a href="https://stackoverflow.com/users/story/11797438" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="2391795" height="30" width="30" />
   </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://medium.com/@vadorequest" target="blank">
+<!--   <a href="" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@vadorequest" height="30" width="30" />
-  </a>
+  </a> -->
 </p>
 
-### Top OSS projects
+### Top React.js projects
 
-> Curated list of my most important OSS contributions
+> Curated list of my most important JS-React contributions
 
-<a href="https://github.com/UnlyEd/next-right-now">
+<a href="https://github.com/MilosTanaskovic/my-portfolio-react">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=unlyed&repo=next-right-now" />
 </a>
 
-<a href="https://github.com/UnlyEd/next-typescript-api-zeit-boilerplate">
+<a href="https://github.com/MilosTanaskovic/modern-music-app">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=unlyed&repo=next-typescript-api-zeit-boilerplate" />
 </a>
 
