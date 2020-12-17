@@ -17,112 +17,92 @@ Here are some ideas to get you started:
 
 -->
 
-### Hi there, I'm Jesse - aka [codeSTACKr][website] 👋
+<h1 align="center">Hi 👋, I'm Milos Tanaskovic </h1>
+<h3 align="center">A very passionate developer since my youngest age, from Sweden.</h3>
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=vadorequest" alt="Milos Tanaskovic" />
+</p>
 
-## I'm a Husband, Father, Developer, and Teacher!!
+### About myself
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 🔭&nbsp;&nbsp;I’m currently authoring [Next Right Now](https://github.com/UnlyEd/next-right-now)
 
-### Spotify Playing 🎧
+- 🌱&nbsp;&nbsp;I’m currently learning **tons of things about tons of stuff (grind grind grind)**
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+- 🤝&nbsp;&nbsp;I’m looking for help with **an OSS chatbot project I haven't had time to work on yet (contributors welcome, contact me!)**
 
-### Connect with me:
+- 💬&nbsp;&nbsp;Ask me about **entrepreneurship, mentorship, programming, daily hacks, productivity, security**
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+- 📫&nbsp;&nbsp;How to reach me **Twitter/LinkedIn** or open a Github issue [here](https://github.com/Vadorequest/Vadorequest/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc)
 
-<br />
+> I also happen to be a CTO and co-founder of [Unly](https://unly.org/), a tech company meant to help access higher education for students.
 
-### Languages and Tools:
+### Tech stack
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
-[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][cssplaylist]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
-[<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />][webdevplaylist]
-[<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />][webdevplaylist]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][webdevplaylist]
-[<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />][webdevplaylist]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][webdevplaylist]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][webdevplaylist]
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][webdevplaylist]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
+> [Check out the tech stack we used at Unly (2019)](https://stackshare.io/unly/2019)
 
-<br />
-<br />
+<p align="left">
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> 
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/> 
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" height="40"/> 
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+</p>
 
----
+### Github statistics
 
-### 📺 Latest YouTube Videos
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vadorequest&layout=compact&hide=php,smarty&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="vadorequest" />&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vadorequest&show_icons=true&count_private=true&show_icons=true&hide=php&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="vadorequest" />
+</p>
 
-<!-- YOUTUBE:START -->
-- [How to make a Discord Input in HTML & CSS | Micro-Interaction & JavaScript Validation](https://www.youtube.com/watch?v=3tG1jUQbuSI)
-- [Deploy Next.js on Netlify in ONE click!! | Next.js Build Plugin on Netlify](https://www.youtube.com/watch?v=NhWCEdja9W4)
-- [Ultimate Guide to Web Development in 2021 & Beyond! | Roadmap 2021+](https://www.youtube.com/watch?v=7k7ETzqOxn8)
-- [Quick JavaScript Challenge from Scrimba - Advent Calendar](https://www.youtube.com/watch?v=V-J2OnZRC0I)
-- [BLACK FRIDAY!! - Join Me For An Amazing Offer!!](https://www.youtube.com/watch?v=lFF5jQeQuEs)
-<!-- YOUTUBE:END -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=vadorequest)](https://github.com/ryo-ma/github-profile-trophy)
 
-➡️ [more videos...](https://youtube.com/codestackr)
 
----
+### Social
 
-### 📕 Latest Blog Posts
+> Want to get in touch?
 
-<!-- BLOG-POST-LIST:START -->
-- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
-- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
-- [Regular Expressions (RegEx) Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
-- [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
-- [Deno 1.0 Released! (Easy) REST API Example](https://dev.to/codestackr/deno-1-0-released-easy-rest-api-example-2fbl)
-<!-- BLOG-POST-LIST:END -->
+<p align="center">
+  <a href="https://dev.to/vadorequest" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="vadorequest" height="30" width="30" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://twitter.com/vadorequest" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="vadorequest" height="30" width="30" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/ambroise-dhenain" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ambroise-dhenain" height="30" width="30" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://stackoverflow.com/users/2391795" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="2391795" height="30" width="30" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://medium.com/@vadorequest" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@vadorequest" height="30" width="30" />
+  </a>
+</p>
 
-➡️ [more blog posts...](https://codestackr.com)
+### Top OSS projects
 
----
+> Curated list of my most important OSS contributions
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. ❌ Closed PR [#14](https://github.com/codeSTACKr/codeSTACKr/pull/14) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-2. 🗣 Commented on [#14](https://github.com/codeSTACKr/codeSTACKr/issues/14) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-3. ❌ Closed PR [#7](https://github.com/codeSTACKr/codeSTACKr/pull/7) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-4. 🎉 Merged PR [#6](https://github.com/codeSTACKr/codeSTACKr/pull/6) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-5. 💪 Opened PR [#259](https://github.com/florinpop17/app-ideas/pull/259) in [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas)
-<!--END_SECTION:activity-->
+<a href="https://github.com/UnlyEd/next-right-now">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=unlyed&repo=next-right-now" />
+</a>
 
-</details>
+<a href="https://github.com/UnlyEd/next-typescript-api-zeit-boilerplate">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=unlyed&repo=next-typescript-api-zeit-boilerplate" />
+</a>
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
 
-</details>
-
-[website]: https://codeSTACKr.com
-[course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+<!-- STACKOVERFLOW:END -->
