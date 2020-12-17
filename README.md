@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 
 - 🔭&nbsp;&nbsp;I’m currently authoring [Modern-Slick React Portfolio](https://github.com/MilosTanaskovic/my-portfolio-react)
 
-- 🌱&nbsp;&nbsp;I’m currently learning **tons of things about tons of stuff (grind grind grind)**
+- 🌱&nbsp;&nbsp;I’m currently learning **Advanced Concept of React.js - Framer Motion Animation**
 
-- 🤝&nbsp;&nbsp;I’m looking for help with **an OSS chatbot project I haven't had time to work on yet (contributors welcome, contact me!)**
+- 🤝&nbsp;&nbsp;I’m looking for help with **an super modern React projects**
 
 - 💬&nbsp;&nbsp;Ask me about **entrepreneurship, mentorship, programming, daily hacks, productivity, security**
 
