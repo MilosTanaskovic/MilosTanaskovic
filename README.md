@@ -60,11 +60,6 @@ Here are some ideas to get you started:
 <!--   <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> -->
 </p>
 
-## Website
-
-Link : https://awesome-github-readme-profile.netlify.app
-
-<a href="https://awesome-github-readme-profile.netlify.app"><img src="https://raw.githubusercontent.com/elangosundar/awesome-README-templates/master/awesome-github-profile.png" alt="Awesome README Templates" /></a>
 
 ### Github statistics
 
