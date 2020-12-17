@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 -->
 
-<h1 align="center">Hi 👋, I'm Milos Tanaskovic </h1>
+<h1 align="center">Hi 👋, I'm Milos Tanaskovic @codedancing</h1>
 <h3 align="center">A very passionate developer since my youngest age, from Sweden.</h3>
 
 <p align="left">
@@ -36,14 +36,14 @@ Here are some ideas to get you started:
 
 - 📫&nbsp;&nbsp;How to reach me **Twitter/LinkedIn** or open a Github issue [here]()
 
-> I also happen to be a CTO and co-founder of [Unly](https://unly.org/), a tech company meant to help access higher education for students.
+<!-- > I also happen to be a CTO and co-founder of [Unly](https://unly.org/), a tech company meant to help access higher education for students. -->
 
 ### Tech stack
 
-<!--> [Check out the tech stack we used at Unly (2019)]()-->
+<!-- > [Check out the tech stack we used at Unly (2019)]()-->
 
 <p align="left">
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
+<!--   <img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>  -->
   <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> 
@@ -54,10 +54,10 @@ Here are some ideas to get you started:
   <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
   <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" height="40"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+<!--   <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/>  -->
   <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+<!--   <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> -->
 </p>
 
 ### Github statistics
@@ -96,11 +96,11 @@ Here are some ideas to get you started:
 > Curated list of my most important JS-React contributions
 
 <a href="https://github.com/MilosTanaskovic/my-portfolio-react">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=unlyed&repo=next-right-now" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MilosTanaskovic&repo=my-portfolio-react" />
 </a>
 
 <a href="https://github.com/MilosTanaskovic/modern-music-app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=unlyed&repo=next-typescript-api-zeit-boilerplate" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MilosTanaskovic&repo=modern-music-app" />
 </a>
 
 
