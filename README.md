@@ -66,7 +66,7 @@ Here are some ideas to get you started:
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MilosTanaskovic&layout=compact&hide=php,smarty&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="MilosTanskovic" />&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MilosTanaskovic&show_icons=true&count_private=true&show_icons=true&hide=php&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Milos Tanaskovic" />
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=MilosTanaskovic)](https://github.com/MilosTanskovic/github-profile-trophy)
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=MilosTanaskovic)](https://github.com/MilosTanskovic/github-profile-trophy) -->
 
 
 ### Social
