@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <h3 align="center">A very passionate developer since my youngest age, from Sweden.</h3>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=vadorequest" alt="Milos Tanaskovic" />
+  <img src="https://komarev.com/ghpvc/?username=MilosTanaskovic" alt="Milos Tanaskovic" />
 </p>
 
 ### About myself
