@@ -99,10 +99,10 @@ Here are some ideas to get you started:
   <a href="https://twitter.com/CodeDancing" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="vadorequest" height="30" width="30" />
   </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/milos-tanaskovic-codedancing-619742130/" target="blank">
+  <a href="https://www.linkedin.com/in/milos-tanaskovic-619742130/" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ambroise-dhenain" height="30" width="30" />
   </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://stackoverflow.com/users/story/11797438" target="blank">
+  <a href="https://stackoverflow.com/users/11797438/milos-tanaskovic" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="2391795" height="30" width="30" />
   </a>&nbsp;&nbsp;&nbsp;
 <!--   <a href="" target="blank">
