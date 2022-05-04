@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 - 🔭&nbsp;&nbsp;I’m currently working on [React CodeDancing Bootcamp](https://github.com/MilosTanaskovic/React-CodeDancing-Bootcamp)
                                         & [JS CodeDancing Bootcamp](https://github.com/MilosTanaskovic/JS-CodeDancing-Bootcamp)
 
-- 🌱&nbsp;&nbsp;I’m currently learning [React v18.0](https://reactjs.org/blog/2022/03/29/react-v18.html)
+- 🌱&nbsp;&nbsp;I’m currently learning [Mastery CodeDancing Assessments](https://github.com/MilosTanaskovic?tab=projects&type=beta)
 
 - 🤝&nbsp;&nbsp;I’m looking for help with **MERN stack - new SaaS project with mob programming**
 
