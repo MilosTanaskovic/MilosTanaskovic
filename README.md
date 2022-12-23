@@ -17,17 +17,17 @@ Here are some ideas to get you started:
 
 -->
 
-<h1 align="center">Hi 👋, I'm Milos Tanaskovic @codedancing</h1>
+<h1 align="center">Hi 👋, I'm Milos Tanaskovic @codedancingwithmilos</h1>
 <h3 align="center">A very passionate developer since my youngest age, from Sweden.</h3>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=MilosTanaskovic" alt="Milos Tanaskovic" />
+  <img src="https://komarev.com/ghpvc/?username=MilosTanaskovic" alt="Milos Tanaskovic @codedancingwithmilos" />
 </p>
 
 ### About myself
 
-- 🔭&nbsp;&nbsp;I’m currently working on [React CodeDancing Bootcamp](https://github.com/MilosTanaskovic/React-CodeDancing-Bootcamp)
-                                        & [JS CodeDancing Bootcamp](https://github.com/MilosTanaskovic/JS-CodeDancing-Bootcamp)
+- 🔭&nbsp;&nbsp;I’m currently working on [Build a Comlete Typescript React Fitness Website](https://github.com/MilosTanaskovic/Complete_TS_React_Tailwind_Fitness_Website.cd)
+                                        & [Typescript CodeDancing](https://github.com/MilosTanaskovic/TypeScript-CodeDancing)
 
 - 🌱&nbsp;&nbsp;I’m currently learning [Mastery CodeDancing Assessments](https://github.com/MilosTanaskovic?tab=projects&type=beta)
 
@@ -99,7 +99,7 @@ Here are some ideas to get you started:
   <a href="https://twitter.com/CodeDancing" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="vadorequest" height="30" width="30" />
   </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/milos-tanaskovic-619742130/" target="blank">
+  <a href="https://www.linkedin.com/in/milos-codedancing" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ambroise-dhenain" height="30" width="30" />
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://stackoverflow.com/users/11797438/milos-tanaskovic" target="blank">
@@ -110,16 +110,60 @@ Here are some ideas to get you started:
   </a> -->
 </p>
 
+### Top Vanila JS projects
+
+> Curated list of my most important Vanila JS contributions
+
+<a href="https://github.com/MilosTanaskovic/tretton37-employees-vanilajs">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MilosTanaskovic&repo=tretton37-employees-vanilajs" />
+</a>
+
+### Top TypeScript projects
+
+> Curated list of my most important TS-React contributions
+
+<a href="https://github.com/MilosTanaskovic/Complete_TS_React_Tailwind_Fitness_Website.cd">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MilosTanaskovic&repo=Complete_TS_React_Tailwind_Fitness_Website.cd" />
+</a>
+
 ### Top React.js projects
 
 > Curated list of my most important JS-React contributions
 
-<a href="https://github.com/MilosTanaskovic/my-portfolio-react">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MilosTanaskovic&repo=my-portfolio-react" />
+<a href="https://github.com/MilosTanaskovic/FullStack_Social_Media_App-shareme.salt">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MilosTanaskovic&repo=FullStack_Social_Media_App-shareme.salt" />
 </a>
 
-<a href="https://github.com/MilosTanaskovic/modern-music-app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MilosTanaskovic&repo=modern-music-app" />
+<a href="https://github.com/MilosTanaskovic/React-CodeDancing/tree/master/gym_exercises_codedancing">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MilosTanaskovic&repo=React-CodeDancing" />
+</a>
+
+### Top Next.js projects
+
+> Curated list of my most important Next.js contributions
+
+<a href="https://github.com/MilosTanaskovic/NextJs-CodeDancing/tree/master/E-commerce-sanity-project">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MilosTanaskovic&repo=NextJs-CodeDancing" />
+</a>
+
+<a href="https://github.com/MilosTanaskovic/NextJs-CodeDancing/tree/master/audiophile-ecommerce-website">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MilosTanaskovic&repo=NextJs-CodeDancing" />
+</a>
+
+### Top MERN Stack projects
+
+> Curated list of my most important MERN (MongoDB, Express.js, React.js, Node.js) contributions
+
+<a href="https://github.com/Metanet-RJMS/metanet">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Metanet-RJMS&repo=metanet" />
+</a>
+
+### Top ASP.NET Core projects
+
+> Curated list of my most important ASP.NET Core contributions
+
+<a href="https://github.com/MilosTanaskovic/DotnetReactivitiesApp">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MilosTanaskovic&repo=DotnetReactivitiesApp" />
 </a>
 
 
