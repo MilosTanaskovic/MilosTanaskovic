@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 -->
 
-<h1 align="center">Hi 👋, I'm Milos @nextgen-softwarengineer</h1>
+<h1 align="center">Hi 👋, I'm Milos - softwarengineer.pro</h1>
 <h3 align="center">A very passionate developer since my youngest age, from Sweden.</h3>
 
 <p align="left">
